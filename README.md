@@ -52,13 +52,13 @@ The current implementation is designed as a local desktop utility and is especia
 - Basic invoice logic
 
 ## Possible improvements
-- Better validation for numeric inputs
-- VAT/tax calculation fixes and configuration
-- File save dialog for selecting output folder
-- Editable invoice number field
-- Company details section
-- PDF export support
-- Improved project structure with separated logic and UI layers
+- [ ] Better validation for numeric inputs
+- [ ] VAT/tax calculation fixes and configuration
+- [ ] File save dialog for selecting output folder
+- [ ] Editable invoice number field
+- [ ] Company details section
+- [ ] PDF export support
+- [ ] Improved project structure with separated logic and UI layers
 
 ## License
 This project is distributed under the MIT License.
