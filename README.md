@@ -3,7 +3,11 @@
 Invoice Generator is a desktop application built with Python that creates invoice documents from a simple graphical interface.
 
 The application allows users to enter customer information, add invoice line items, calculate totals, and generate a `.docx` invoice file using a predefined Word template.
-
+<br>
+<br>
+<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<br>
+<br>
 ## Features
 - Desktop GUI built with `customtkinter`
 - Add and remove invoice items interactively
