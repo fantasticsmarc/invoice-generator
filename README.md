@@ -34,6 +34,7 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+Or execute the invoice-generator .exe without the need of Python or other libraries
 
 ## Files
 - `main.py` — main desktop application
